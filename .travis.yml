@@ -101,7 +101,7 @@ before_install:
     AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID_PROD;
     AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY_PROD;
     S3_BUCKET='cf-templates-1nws5fs1cm2fm-ap-northeast-1';
-    CODEDEPLOY_APP='a1-EC2-CodeDeploy';
+    CODEDEPLOY_APP='cfs-jason-20200117-EC2-CodeDeploy';
     CODEDEPLOY_GROUP='ec2';
   fi
 
